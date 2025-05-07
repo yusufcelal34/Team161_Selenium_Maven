@@ -23,6 +23,17 @@
             <artifactId>selenium-java</artifactId>
             <version>4.31.0</version>
         </dependency>
+
+
+
+        <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+        <dendency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>6.0.0</version>
+        </dendency>
+
+
     </dependencies>
 
 
